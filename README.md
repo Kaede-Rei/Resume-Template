@@ -9,6 +9,8 @@
 - 包含完整的简历结构模板
 - 支持自定义样式和内容
 
+<img src="./resume.png" alt="resume" style="zoom: 33%;" />
+
 ## 📁 项目结构
 
 ```
